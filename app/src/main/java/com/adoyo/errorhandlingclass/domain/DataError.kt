@@ -9,6 +9,7 @@ sealed interface DataError: Error {
         UNAUTHORIZED,
         FORBIDDEN,
         NOT_FOUND,
+        BAD_REQUEST,
     }
     enum class Local: DataError {
         DATABASE_ERROR,
