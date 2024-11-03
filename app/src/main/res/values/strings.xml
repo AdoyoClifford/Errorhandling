@@ -9,4 +9,16 @@
     <string name="error_disk_full">Failed to save the item because your device\'s disk is full</string>
     <string name="error_serialization">Oops, couldn\'t parse data.</string>
     <string name="error_password_too_short">The password is too short</string>
+    <string name="database_error">databse encountered an error\n</string>
+    <string name="file_not_found">file not found\n</string>
+    <string name="file_read_error">file read error</string>
+    <string name="file_write_error">file write error\n</string>
+    <string name="file_delete_error">file delete error\n</string>
+    <string name="too_many_requests">too many requests\n</string>
+    <string name="no_internet_connection">no internet connection\n</string>
+    <string name="unknown_host">unknown host</string>
+    <string name="unauthorized">unauthorized\n</string>
+    <string name="forbidden">forbidden\n</string>
+    <string name="not_found">not found\n</string>
+    <string name="bad_request">bad request</string>
 </resources>
